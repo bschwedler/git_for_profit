@@ -1,0 +1,501 @@
+ABI VORTAC ABILENE TX US                                                      322852.7805N 0995148.4489W N H-VORTACW   Y N N
+ABQ VORTAC ALBUQUERQUE NM US                                                  350237.6641N 1064858.7229W N H-VORTACW   Y N N
+ABR VOR/DME ABERDEEN SD US                                                    452502.4840N 0982207.3905W N H-VOR/DME   Y N N
+ACITO IL US K5                                                                412355.0000N 0881100.0000W F             Y Y N
+ACMES AL US K7                                                                305527.1300N 0882210.8200W F             Y N N
+ADELL IL US K5                                                                411459.0000N 0881500.0000W F             Y Y N
+AEX VORTAC ALEXANDRIA LA US                                                   311524.2235N 0923003.5110W N H-VORTACW   Y Y N
+ALO VORTAC WATERLOO IA US                                                     423323.3876N 0922356.1261W N H-VORTACW   N Y N
+ALS VORTAC ALAMOSA CO US                                                      372056.9734N 1054855.9270W N H-VORTACW   N Y N
+ANX VORTAC NAPOLEON MO US                                                     390543.5260N 0940743.8050W N L-VORTACW   N Y N
+ARLYN IL US K5                                                                401900.0000N 0884000.0000W F             Y Y N
+ASHBY NE US K3                                                                401902.0600N 1020005.4300W F             Y N N
+ASP VOR/DME OSCODA MI US                                                      442656.8613N 0832339.4201W N H-VORW/DME  N Y N
+ASTNN NV US K2                                                                391500.0000N 1162300.0000W F             N N Y
+ATLAZ NY US K6                                                                432000.0000N 0785000.0000W F             N N Y
+AVE VORTAC AVENAL CA US                                                       353849.1120N 1195842.9800W N H-VORTACW   N Y N
+AVERS NV US K2                                                                370445.0800N 1140155.5200W F             N N Y
+BACEN IL US K5                                                                412424.0000N 0880147.0000W F             Y Y N
+BAE VORTAC MILWAUKEE WI US                                                    430700.6713N 0881703.6404W N H-VORTACW   Y Y N
+BALDY OR US K1                                                                440200.0000N 1202600.0000W F             N N Y
+BCE VORTAC BRYCE CANYON UT US                                                 374121.0743N 1121814.0302W N H-VORTACW   Y Y N
+BDF VORTAC BRADFORD IL US                                                     410935.0330N 0893516.3430W N H-VORTAC    N Y N
+BEKKI IL US K5                                                                401900.0000N 0882054.0000W F             Y Y N
+BELKE NE US K3                                                                400122.5800N 1020030.6900W F             Y N N
+BENET CA US K2                                                                333542.0700N 1185035.9400W F             N N Y
+BERYL UT US K2                                                                375400.1700N 1132308.5800W F             Y N N
+BESOM AL US K7                                                                333510.7300N 0873923.4900W F             N Y N
+BETHL AZ US K2                                                                365303.9000N 1122625.5500W F             N Y N
+BFF VORTAC SCOTTSBLUFF NE US                                                  415338.9868N 1032855.3138W N H-VORTAC    Y Y N
+BGD VORTAC BORGER TX US                                                       354825.4611N 1012255.7493W N L-VORTACW   N Y N
+BIB VORTAC BIBLE GROVE IL US                                                  385513.2432N 0882854.4967W N L-VORTAC    N Y N
+BIKKR CA US K2                                                                363400.0000N 1164500.0000W F             Y N N
+BINKE CO US K2                                                                380025.5900N 1053533.6200W F             Y N N
+BLAIK NC US K7                                                                355022.8400N 0752826.2300W F             N N Y
+BLD VORTAC BOULDER CITY NV US                                                 355944.8448N 1145148.8840W N H-VORTACW   Y Y N
+BLEWE TX US K4                                                                311227.6500N 0971232.4700W F             Y Y N
+BLOKR IL US K5                                                                411459.0000N 0880500.0000W F             Y Y N
+BLUIT WA US K1                                                                472421.3600N 1202505.5100W F             Y N N
+BLVNS OG US K                                                                 282256.1900N 0880202.9800W F             Y Y N
+BNA VORTAC NASHVILLE TN US                                                    360813.0594N 0864105.1778W N H-VORTAC    Y Y N
+BOBVE TX US K4                                                                332200.0000N 1003000.0000W F             N N Y
+BOYDD AL US K7                                                                324152.5800N 0882057.7100W F             Y N N
+BPI VOR/DME BIG PINEY WY US                                                   423446.0032N 1100633.1630W N H-VORW/DME  Y Y N
+BPT VOR/DME BEAUMONT/PORT ARTHUR TX US                                        295645.7951N 0940058.3953W N L-VORW/DME  Y N N
+BRD VORTAC BRAINERD MN US                                                     462053.8057N 0940133.5447W N H-VORTACW   N Y N
+BREWW OR US K1                                                                440025.0000N 1205000.0000W F             N N Y
+BROPH ID US K1                                                                424315.7100N 1145231.8000W F             N N Y
+BTG VORTAC BATTLE GROUND WA US                                                454452.1197N 1223529.5316W N H-VORTACW   N Y N
+BUGGA CA US K2                                                                344308.0700N 1154306.3700W F             N N Y
+BULZI FL US K7                                                                302224.9300N 0840434.4700W F             Y N N
+BUM VORTAC BUTLER MO US                                                       381619.4863N 0942917.7399W N H-VORTAC    N Y N
+BUNKE TX US K4                                                                310238.9000N 0980033.0000W F             N N Y
+BVL VORTAC BONNEVILLE UT US                                                   404333.9510N 1134526.7020W N H-VORTAC    Y Y N
+BYI VOR/DME BURLEY ID US                                                      423448.8617N 1135157.0873W N L-VORW/DME  Y Y N
+CABET KS US K3                                                                393538.9600N 1020038.7000W F             Y N N
+CADIZ IN US K5                                                                411003.9900N 0872315.7700W F             Y N N
+CALGO FL US K7                                                                313130.7400N 0803854.3600W F             N N Y
+CARGO CA US K2                                                                330051.0200N 1145214.3600W F             N N Y
+CARYN IL US K5                                                                411459.0000N 0875333.0000W F             Y Y N
+CATLN AL US K7                                                                311826.0300N 0873447.7500W F             Y N N
+CATOE AK US PA                                                                621013.9400N 1633445.9900W F             Y N N
+CATTS KS US K3                                                                391811.5900N 0960913.6900W F             Y N N
+CEEYA GA US K7                                                                313132.0000N 0840532.0000W F             Y N N
+CESNA WI US K5                                                                455214.0000N 0921059.0000W F             Y Y N
+CETGA AZ US K2                                                                330325.0000N 1141723.0000W F             N N Y
+CHE VOR/DME HAYDEN CO US                                                      403112.2940N 1071817.6437W N H-VORW/DME  N Y N
+CHILY AZ US K2                                                                344248.6100N 1124542.2700W F             Y N N
+CIAAA MS US K7                                                                314316.2400N 0901337.5700W F             Y Y N
+CIDAP TX US K4                                                                312600.0000N 0974000.0000W F             N N Y
+CIKAN TX US K4                                                                322900.0000N 1001900.0000W F             N N Y
+CIM VORTAC CIMARRON NM US                                                     362929.0290N 1045219.1990W N H-VORTAC    N Y N
+CINAD TX US K4                                                                321200.0000N 0993000.0000W F             N N Y
+CIP VOR/DME CLARION PA US                                                     410846.6560N 0792728.7059W N L-VOR/DME   Y N N
+CLARR CA US K2                                                                354032.4500N 1154047.1100W F             Y N Y
+CLEIN NV US K2                                                                415337.3600N 1145251.9600W F             N N Y
+CMSKY IL US K5                                                                412447.0000N 0875238.0000W F             Y Y N
+CNX VORTAC CORONA NM US                                                       342201.2550N 1054040.8170W N H-VORTAC    N Y N
+COKEE MT US K1                                                                472224.8300N 1065148.6600W F             N N Y
+COLAN AZ US K2                                                                322600.0000N 1102030.0000W F             Y Y Y
+CORKR AZ US K2                                                                360502.2600N 1122401.2900W F             N Y N
+CORNA NY US K6                                                                430713.0000N 0781902.0000W F             N N Y
+COWBY AZ US K2                                                                355524.8400N 1135409.9400W F             Y N N
+CRITO NV US K2                                                                391800.0000N 1143300.0000W F             N N Y
+CRL VORTAC CARLETON MI US                                                     420252.8902N 0832727.2947W N H-VORTAC    N Y N
+CRP VORTAC CORPUS CHRISTI TX US                                               275413.5573N 0972641.5728W N H-VORTACW   Y Y N
+CRTTR NM US K2                                                                344200.0000N 1043000.0000W F             N N Y
+CUDER CA US K2                                                                342354.0000N 1143951.0000W F             Y Y N
+CUKAN TX US K4                                                                260001.7400N 0960438.3500W F             N N Y
+CULAB TX US K4                                                                312300.0000N 0993000.0000W F             N N Y
+CULTS AZ US K2                                                                333503.1600N 1133040.1700W F             Y N N
+CURLY NM US K2                                                                352504.7500N 1070532.3300W F             N Y N
+CUVAM CA US K2                                                                325340.0000N 1150818.0000W F             N N Y
+CUVEK CA US K2                                                                333519.0000N 1150023.0000W F             N N Y
+CVA VORTAC DAVENPORT IA US                                                    414230.7743N 0902859.9292W N L-VORTACW   N Y N
+CWEJO PR US TJ                                                                184000.0000N 0645000.0000W F             Y Y N
+CYBIL IL US K5                                                                401900.0000N 0875152.0000W F             Y Y N
+CYS VORTAC CHEYENNE WY US                                                     411239.4813N 1044622.4939W N H-VORTACW   Y N N
+DAFIN OG US K                                                                 300600.0000N 0882730.0000W F             N N Y
+DAISY CA US K2                                                                341513.7700N 1200831.4700W F             N N Y
+DARCY IL US K5                                                                411208.0000N 0874333.0000W F             Y Y N
+DBL VOR/DME EAGLE CO US                                                       392621.6430N 1065340.8490W N H-VORW/DME  Y N N
+DBLUS WA US K1                                                                481900.0000N 1172400.0000W F             N N Y
+DBQ VORTAC DUBUQUE IA US                                                      422405.3002N 0904232.6667W N H-VORTACW   N Y N
+DBS VORTAC DUBOIS ID US                                                       440519.8720N 1121233.6360W N H-VORTACW   N Y N
+DEFUN FL US K7                                                                304851.2700N 0860753.0900W F             N Y N
+DELTE LA US K4                                                                295733.8000N 0892120.6000W F             N N Y
+DENNT IL US K5                                                                412509.0000N 0874329.0000W F             Y Y N
+DESKE MS US K7                                                                325144.2300N 0902637.1700W F             Y Y N
+DEZRT UT US K2                                                                405030.0000N 1125000.0000W F             N N Y
+DHART AR US K4                                                                332352.1400N 0922509.5700W F             N Y N
+DIK VORTAC DICKINSON ND US                                                    465135.9441N 1024624.6024W N H-VORTACW   Y N N
+DILCO AZ US K2                                                                353152.4300N 1100355.3300W F             N Y N
+DIVEY TX US K4                                                                322600.0000N 1020500.0000W F             N N Y
+DLH VORTAC DULUTH MN US                                                       464807.7897N 0921210.3291W N H-VORTACW   Y N N
+DOAME WA US K1                                                                480430.0000N 1202900.0000W F             N N Y
+DOGEY TX US K4                                                                302636.5000N 1010457.7000W F             N N Y
+DONTE CO US K2                                                                380024.6000N 1034331.2000W F             N N Y
+DOVEE NV US K2                                                                352651.0700N 1144800.9400W F             Y N N
+DPR VORTAC DUPREE SD US                                                       450441.4310N 1014254.2570W N H-VORTACW   Y N N
+DREGS IL US K5                                                                401900.0000N 0873627.0000W F             Y Y N
+DRK VORTAC PRESCOTT AZ US                                                     344209.1972N 1122849.2443W N H-VORTACW   N Y N
+DRYHT NM US K2                                                                342503.2300N 1080810.4400W F             Y N N
+DRYLK NV US K2                                                                384900.0000N 1160600.0000W F             N N Y
+DSM VORTAC DES MOINES IA US                                                   412615.4493N 0933854.8086W N H-VORTACW   N Y N
+DTA VORTAC DELTA UT US                                                        391807.9596N 1123020.0012W N H-VORTACW   Y N N
+DUBAY NM US K2                                                                322100.0000N 1052600.0000W F             N N Y
+DVC VORTAC DOVE CREEK CO US                                                   374831.4630N 1085552.5860W N H-VORTACW   Y N N
+DYSSS NV US K2                                                                363700.0000N 1162954.0000W F             N N Y
+EARND IL US K5                                                                412531.0000N 0873420.0000W F             Y Y N
+ECK VORTAC PECK MI US                                                         431521.1880N 0824304.5460W N H-VORTAC    N Y N
+ECKOR TX US K4                                                                311600.0000N 0973000.0000W F             N N Y
+EDARE KS US K3                                                                373730.0000N 1015833.3600W F             N N Y
+EED VORTAC NEEDLES CA US                                                      344557.6150N 1142826.7750W N H-VORTAC    Y Y N
+EHF VORTAC BAKERSFIELD CA US                                                  352904.3995N 1190550.2675W N H-VORTACW   Y N N
+EIREE CA US K2                                                                331354.4000N 1175327.4100W F             N N Y
+EKR VOR/DME MEEKER CO US                                                      400402.7908N 1075529.8185W N H-VORW/DME  Y Y N
+ELA VOR/DME EAGLE LAKE TX US                                                  293944.9281N 0961901.6498W N H-VORW/DME  Y Y N
+ELD VORTAC EL DORADO AR US                                                    331522.1537N 0924438.2119W N H-VORTACW   Y Y N
+ELEYE OK US K4                                                                343308.0000N 0985006.0000W F             N N Y
+ELLVR TX US K4                                                                314229.2200N 0965016.0500W F             N Y N
+EMG VORTAC SHREVEPORT LA US                                                   322401.4600N 0933542.5300W N L-VORTAC    Y N N
+EMMLY IN US K5                                                                402700.0000N 0872000.0000W F             Y Y N
+EMP VORTAC EMPORIA KS US                                                      381728.1149N 0960817.2209W N L-VORTACW   N Y N
+ENI VORTAC UKIAH CA US                                                        390311.5803N 1231627.5760W N H-VORTACW   N Y N
+ENL VORTAC CENTRALIA IL US                                                    382511.9953N 0890932.3921W N H-VORTAC    N Y N
+ESPAN NM US K2                                                                360711.3500N 1062125.3400W F             N Y N
+ETICO TX US K4                                                                325900.0000N 1001500.0000W F             N N Y
+EVANT OR US K1                                                                432300.0000N 1184500.0000W F             N N Y
+EYEKO LA US K4                                                                293344.1900N 0893034.3000W F             N N Y
+FAKEE NM US K2                                                                343400.0000N 1051700.0000W F             N N Y
+FALTO TX US K4                                                                262745.9000N 0990611.6000W F             Y Y N
+FAM VORTAC FARMINGTON MO US                                                   374024.4613N 0901402.6147W N H-VORTAC    N Y N
+FANAK AZ US K2                                                                324630.0000N 1105300.0000W F             Y Y Y
+FANLO NV US K2                                                                361836.0000N 1152831.0000W F             N N Y
+FAR VORTAC FARGO ND US                                                        464512.0199N 0965104.7439W N H-VORTACW   Y Y N
+FASIR AZ US K2                                                                343241.0000N 1140051.0000W F             Y Y N
+FASTE NV US K2                                                                404200.0000N 1143000.0000W F             N N Y
+FATSO OG US K                                                                 294123.9900N 0894704.4600W F             Y Y N
+FAVON TX US K4                                                                333500.0000N 1023400.0000W F             N N Y
+FEDSA FL US K7                                                                300718.9200N 0803913.3000W F             N N Y
+FEONA GA US K7                                                                313621.5100N 0844307.8200W F             Y N N
+FERDO CA US K2                                                                340950.0000N 1154022.0000W F             N N Y
+FETMO TX US K4                                                                261035.6000N 0982331.3000W F             Y Y N
+FFU VORTAC PROVO UT US                                                        401629.6206N 1115625.9134W N H-VORTACW   Y N N
+FILGO OK US K4                                                                344554.0000N 0985154.0000W F             N N Y
+FLM VOR/DME FALMOUTH KY US                                                    383857.9899N 0841838.1657W N H-VOR/DME   Y Y N
+FMG VORTAC RENO NV US                                                         393152.5536N 1193921.8562W N H-VORTACW   N Y N
+FOD VORTAC FORT DODGE IA US                                                   423640.0499N 0941741.3381W N H-VORTACW   Y Y N
+FODER TX US K4                                                                303800.0000N 1022000.0000W F             N N Y
+FRAGS CA US K2                                                                344129.8700N 1202831.2600W F             N N Y
+FSM VORTAC FORT SMITH AR US                                                   352318.3016N 0941617.4907W N L-VORTACW   Y Y N
+FTI VORTAC LAS VEGAS NM US                                                    353927.1782N 1050808.1471W N H-VORTACW   N Y N
+FUZ VORTAC DALLAS-FORT WORTH TX US                                            325322.0200N 0971045.9310W N H-VORTACW   Y N N
+FWA VORTAC FORT WAYNE IN US                                                   405844.6315N 0851117.0092W N H-VORTACW   Y Y N
+GADAY AL US K7                                                                310228.0000N 0860802.0000W F             Y Y N
+GALLI NV US K2                                                                401910.3400N 1180717.8400W F             Y N N
+GAROT UT US K2                                                                391800.0000N 1131500.0000W F             N N Y
+GCK VORTAC GARDEN CITY KS US                                                  375508.4134N 1004330.0311W N H-VORTACW   N Y N
+GEP VORTAC MINNEAPOLIS MN US                                                  450844.4656N 0932223.4514W N H-VORTACW   Y Y N
+GERME CA US K2                                                                341351.0000N 1144025.0000W F             Y Y N
+GIJ VORTAC NILES MI US                                                        414607.0028N 0861906.4219W N H-VORTACW   N Y N
+GIRLY OG US K                                                                 292905.3500N 0930438.4000W F             Y Y N
+GLAZR TN US K7                                                                362520.7800N 0844649.2900W F             Y Y N
+GLD VORTAC GOODLAND KS US                                                     392316.3260N 1014132.2684W N H-VORTACW   N Y N
+GMN VORTAC GORMAN CA US                                                       344814.5030N 1185140.8970W N L-VORTAC    Y N N
+GONEY TX US K4                                                                311602.2000N 0992720.1000W F             N N Y
+GRB VORTAC GREEN BAY WI US                                                    443318.5768N 0881141.4826W N H-VORTACW   N Y N
+GRDON FL US K7                                                                292240.7000N 0803847.9100W F             N N Y
+GREAS WI US K5                                                                425627.8400N 0883242.4600W F             Y N N
+GRNNT NM US K2                                                                315300.0000N 1080700.0000W F             N N Y
+GSH VORTAC GOSHEN IN US                                                       413130.5586N 0860140.6316W N H-VORTAC    Y N N
+GUITR TN US K7                                                                362843.5400N 0855834.1800W F             N Y N
+GULFR FL US K7                                                                301223.0000N 0833308.0000W F             Y N N
+GUP VORTAC GALLUP NM US                                                       352833.5970N 1085221.4020W N H-VORTAC    Y Y N
+GURNE CO US K2                                                                380913.2000N 1025921.0000W F             N N Y
+GUSTI LA US K4                                                                295815.3400N 0925435.2900W F             Y N N
+GUTEC OK US K4                                                                344738.0000N 0983142.0000W F             N N Y
+HAAWK AR US K4                                                                351602.5600N 0930727.0000W F             Y N N
+HALOO NY US K6                                                                430940.0000N 0763804.0000W F             N N Y
+HANKI NE US K3                                                                413755.1300N 1025548.4800W F             Y N N
+HANOS NM US K2                                                                360116.3300N 1065750.5100W F             Y N N
+HARES LA US K4                                                                330000.0000N 0914400.0000W F             N Y N
+HAROL NV US K2                                                                401153.3000N 1175242.3000W F             Y N N
+HATMA FL US K7                                                                303927.0900N 0803915.7300W F             N N Y
+HAVET TX US K4                                                                311247.0000N 0963908.0000W F             Y N N
+HBU VOR/DME GUNNISON CO US                                                    382707.7511N 1070223.2520W N H-VORW/DME  N Y N
+HCT VORTAC HAYES CENTER NE US                                                 402714.6190N 1005524.8640W N H-VORTAC    N Y N
+HEADE UT US K2                                                                404600.0000N 1125500.0000W F             N N Y
+HEATR OK US K4                                                                344928.3100N 0995056.5200W F             Y Y N
+HEC VORTAC HECTOR CA US                                                       344749.2645N 1162746.5193W N H-VORTAC    N Y N
+HEDVI AZ US K2                                                                333223.0000N 1142814.0000W F             N N Y
+HESTN MO US K3                                                                380129.0000N 0910013.0000W F             N N Y
+HGO VOR/DME HUGO CO US                                                        384903.0000N 1033717.0000W N H-VORW/DME  N Y N
+HIDAT AZ US K2                                                                343400.0000N 1125845.0000W F             Y Y Y
+HILTY MO US K3                                                                364030.0000N 0921406.0000W F             N N Y
+HIMDU AZ US K2                                                                342406.0000N 1140051.0000W F             Y Y N
+HIPPI AZ US K2                                                                343344.2400N 1133821.7300W F             N Y N
+HLV VORTAC HALLSVILLE MO US                                                   390648.7470N 0920741.6420W N L-VORTAC    Y N N
+HOLSI AZ US K2                                                                341525.0000N 1140051.0000W F             Y Y N
+HOMET TX US K4                                                                330700.0000N 1020500.0000W F             N N Y
+HOPAP KY US K5                                                                374436.2900N 0842308.2600W F             Y Y N
+HOTER IN US K5                                                                413726.4100N 0860025.6100W F             Y N N
+HVE VORTAC HANKSVILLE UT US                                                   382500.5340N 1104159.0380W N H-VORTACW   Y N N
+HYLAA MS US K7                                                                322140.2600N 0891707.1100W F             Y Y N
+ICEMN TX US K4                                                                283502.3800N 0982006.3700W F             Y Y N
+IDU VORTAC INDUSTRY TX US                                                     295721.8070N 0963343.8990W N L-VORTACW   Y Y N
+IIU VORTAC LOUISVILLE KY US                                                   380612.4705N 0853438.7702W N H-VORTAC    Y Y N
+ILA VORTAC WILLIAMS CA US                                                     390416.1350N 1220138.0790W N L-VORTACW   N Y N
+IMB VORTAC KIMBERLY OR US                                                     443854.2100N 1194241.8730W N H-VORTACW   Y N N
+INSLO NV US K2                                                                384044.9000N 1171753.2000W F             Y N N
+IOW VORTAC IOWA CITY IA US                                                    413108.2649N 0913647.6989W N H-VORTAC    Y Y N
+IRK VORTAC KIRKSVILLE MO US                                                   400806.0638N 0923530.1727W N H-VORTAC    N Y N
+IRW VORTAC OKLAHOMA CITY OK US                                                352130.9493N 0973633.2159W N H-VORTACW   N Y N
+ITUDE OK US K4                                                                344917.0000N 0981349.0000W F             N N Y
+JAAAE MS US K7                                                                322035.0000N 0885231.0000W F             Y Y N
+JAC VOR/DME JACKSON WY US                                                     433715.7350N 1104354.0670W N L-VORW/DME  N Y N
+JANAD CA US K2                                                                335901.0000N 1153605.0000W F             Y Y N
+JCT VORTAC JUNCTION TX US                                                     303552.8761N 0994902.9316W N H-VORTACW   Y N N
+JEMTA TX US K4                                                                320900.0000N 0981100.0000W F             N N Y
+JERKI CA US K2                                                                333717.0000N 1153644.0000W F             N N Y
+JHW VOR/DME JAMESTOWN NY US                                                   421118.9873N 0790716.6981W N H-VOR/DME   N Y N
+JIPEM CA US K2                                                                352201.0000N 1160430.0000W F             N N Y
+JNC VOR/DME GRAND JUNCTION CO US                                              390334.4360N 1084733.2660W N H-VORW/DME  N Y N
+JOFAY CA US K2                                                                375543.4200N 1193045.5300W F             N Y N
+JOLAR AZ US K2                                                                334030.0000N 1140051.0000W F             Y Y N
+JONEH NY US K6                                                                420218.0000N 0772200.0000W F             N N Y
+JOPER NV US K2                                                                382900.0000N 1162000.0000W F             N Y N
+JOPON CA US K2                                                                325204.0000N 1153713.0000W F             N N Y
+JOT VORTAC JOLIET IL US                                                       413247.1031N 0881906.2792W N H-VORTAC    N Y N
+JSICA NV US K2                                                                383113.8600N 1171712.5400W F             Y N N
+JUMBO TX US K4                                                                313210.4200N 0981048.4600W F             N Y N
+JUNER CO US K2                                                                372203.6000N 1034321.6000W F             N N Y
+KALBE MS US K7                                                                311705.8000N 0893536.9000W F             Y Y N
+KANNA TX US K4                                                                260001.2800N 0970000.8700W F             Y Y N
+KAPLN LA US K4                                                                295625.1500N 0922003.5400W F             Y Y N
+KATTS NV US K2                                                                382000.0000N 1162000.0000W F             N Y Y
+KENTN KS US K3                                                                390847.9900N 0955646.8600W F             Y N N
+KIACK PA US K6                                                                405146.4400N 0763934.8800W F             Y Y N
+KIMBE MS US K7                                                                311357.3000N 0884312.7300W F             N N Y
+KINEY TX US K4                                                                284352.3000N 0991756.0000W F             N N Y
+KIRST TX US K4                                                                325022.5000N 0993559.6500W F             Y N N
+KLASH WY US K1                                                                413423.5400N 1064458.5100W F             Y N N
+KNINE GA US K7                                                                330422.9300N 0822125.1000W F             N N Y
+KNOST OG US K                                                                 280002.5500N 0832523.9900W F             N N Y
+KOSTE TX US K4                                                                305923.9000N 0972750.0000W F             N N Y
+KSANG KS US K3                                                                380228.0000N 0955236.0000W F             N N Y
+KSINO NV US K2                                                                363432.1200N 1140504.5900W F             N Y N
+LAA VOR/DME LAMAR CO US                                                       381149.5313N 1024115.1164W N H-VORW/DME  N Y N
+LAN VORTAC LANSING MI US                                                      424302.6158N 0844151.0293W N L-VORTACW   N Y N
+LANDO CA US K2                                                                350044.7400N 1183658.9400W F             Y N Y
+LAR VOR/DME LARAMIE WY US                                                     412016.1520N 1054315.3565W N L-VORW/DME  Y N N
+LATTS NY US K6                                                                445129.7800N 0733229.2600W F             Y Y N
+LAVAN NM US K2                                                                345045.9100N 1071705.4500W F             N Y N
+LAX VORTAC LOS ANGELES CA US                                                  335559.3348N 1182555.2413W N H-VORTACW   Y N N
+LBF VORTAC NORTH PLATTE NE US                                                 410255.3399N 1004449.5511W N L-VORTACW   N Y N
+LBL VORTAC LIBERAL KS US                                                      370239.8205N 1005816.3130W N H-VORTACW   N Y N
+LCH VORTAC LAKE CHARLES LA US                                                 300829.4490N 0930620.0490W N H-VORTACW   Y N N
+LEATO MI US K5                                                                434316.9000N 0843149.3500W F             Y Y N
+LENIE GA US K7                                                                313358.0000N 0835050.0000W F             Y N N
+LEWIT MT US K1                                                                472300.2100N 1100844.7800W F             N N Y
+LFD VOR/DME LITCHFIELD MI US                                                  420344.9620N 0844554.4770W N L-VOR/DME   N Y N
+LFK VORTAC LUFKIN TX US                                                       310944.7908N 0944300.5974W N H-VORTACW   Y N N
+LHO VOR/DME LOGAN UT US                                                       414734.3674N 1120035.1990W N L-VORW/DME  Y N N
+LIDAT NV US K2                                                                372548.6700N 1171641.0000W F             N Y Y
+LIT VORTAC LITTLE ROCK AR US                                                  344039.6224N 0921049.9017W N H-VORTACW   Y Y N
+LLA VOR/DME WHITE LAKE LA US                                                  293947.6110N 0922225.1130W N L-VORW/DME  N Y N
+LMN VORTAC LAMONI IA US                                                       403548.2870N 0935803.3430W N H-VORTAC    N Y N
+LOXLY AL US K7                                                                304542.6200N 0874756.1100W F             N N Y
+LYGHT KS US K3                                                                375416.0000N 0965325.0000W F             N N Y
+LYNND NV US K2                                                                412500.0000N 1192100.0000W F             N N Y
+MAHER MO US K3                                                                374638.0000N 0920431.0000W F             N N Y
+MAKRS CA US K2                                                                354057.9500N 1202038.9900W F             Y N N
+MANKI TX US K4                                                                331515.7900N 0993352.6200W F             Y N N
+MAP VORTAC MAPLES MO US                                                       373526.7550N 0914718.8510W N L-VORTAC    Y N N
+MARLS MT US K1                                                                455019.9500N 1055105.5100W F             N N Y
+MARPE NM US K2                                                                342600.0000N 1033400.0000W F             N N Y
+MARUE NV US K2                                                                351523.0000N 1145255.0000W F             Y Y N
+MBW VOR/DME MEDICINE BOW WY US                                                415043.8800N 1060015.4220W N L-VORW/DME  Y Y N
+MCI VORTAC KANSAS CITY MO US                                                  391707.0200N 0944413.4300W N H-VORTAC    Y Y N
+MCK VOR/DME MC COOK NE US                                                     401213.6722N 1003539.2094W N H-VORW/DME  N Y N
+MCM VOR/DME MACON MO US                                                       393914.5698N 0922855.6913W N L-VOR/DME   Y N N
+MCW VORTAC MASON CITY IA US                                                   430541.1220N 0931947.5405W N H-VORTACW   N Y N
+MEGBE TX US K4                                                                301732.0000N 1044521.0000W F             N Y N
+MEI VORTAC MERIDIAN MS US                                                     322242.3837N 0884815.3593W N H-VORTAC    Y N N
+MEM VORTAC MEMPHIS TN US                                                      350054.4234N 0895859.5505W N H-VORTAC    N Y N
+MESSI AZ US K2                                                                334759.3800N 1134811.3700W F             Y N N
+METOW WA US K1                                                                480800.0000N 1200900.0000W F             N Y N
+MIDEE OK US K4                                                                351306.0000N 0960704.0000W F             Y N N
+MIE VOR/DME MUNCIE IN US                                                      401414.2533N 0852338.5315W N L-VOR/DME   Y N N
+MIERA NM US K2                                                                345724.7400N 1060650.9600W F             N Y N
+MIGET PA US K6                                                                411740.4300N 0785151.4900W F             Y Y N
+MISLE AL US K7                                                                332400.0000N 0873800.0000W F             N Y N
+MKG VORTAC MUSKEGON MI US                                                     431009.3101N 0860221.7608W N L-VORTACW   Y N N
+MLC VORTAC MC ALESTER OK US                                                   345057.9873N 0954656.4392W N L-VORTACW   Y N N
+MLD VOR/DME MALAD CITY ID US                                                  421159.6410N 1122704.4460W N H-VORW/DME  Y N N
+MLF VORTAC MILFORD UT US                                                      382137.3549N 1130047.6668W N H-VORTAC    Y Y N
+MOBME CA US K2                                                                325716.0000N 1154915.0000W F             N N Y
+MOHAK AZ US K2                                                                324633.0400N 1135819.5500W F             Y Y N
+MOOSE OK US K4                                                                341853.0700N 0972738.7000W F             N Y N
+MOXEE OR US K1                                                                440858.2900N 1224511.4200W F             N Y N
+MQP VORTAC MINERAL WELLS TX US                                                324334.2500N 0975950.7900W N H-VORTACW   Y Y N
+MRMAC OK US K4                                                                345028.8200N 0980634.3200W F             Y N N
+MTU VOR/DME MYTON UT US                                                       400856.7437N 1100737.3008W N H-VOR/DME   Y N N
+MUDGY AZ US K2                                                                324647.4100N 1142754.1700W F             N N Y
+MVA VORTAC MINA NV US                                                         383355.0780N 1180158.2720W N H-VORTAC    N Y Y
+MYERZ MO US K3                                                                371154.1800N 0903950.9500W F             Y N N
+MZV VORTAC MOLINE IL US                                                       411915.3157N 0903817.5716W N L-VORTACW   N Y N
+NATEE NV US K2                                                                353714.0000N 1152226.0000W F             Y Y N
+NATTI WY US K1                                                                413048.3200N 1062901.1600W F             Y N N
+NAVYS TX US K4                                                                312317.4500N 0961849.2600W F             Y N N
+NEERO NV US K2                                                                414903.3500N 1180129.2700W F             N N Y
+NELEE TX US K4                                                                270850.6600N 0990655.4800W F             N N Y
+NICLE AZ US K2                                                                361843.6700N 1131328.9600W F             Y N N
+NIDSE AZ US K2                                                                335233.0000N 1140051.0000W F             Y Y N
+NIPIY CA US K2                                                                350733.0000N 1154842.0000W F             Y Y N
+NOCIT MS US K7                                                                312019.0400N 0891720.3900W F             N N Y
+NUGNT PA US K6                                                                412238.0000N 0791150.0000W F             N N Y
+OAL VORTAC COALDALE NV US                                                     380011.7410N 1174613.6050W N H-VORTAC    N Y N
+OATHE KS US K3                                                                385059.0300N 1014739.3300W F             N Y N
+OBH VORTAC WOLBACH NE US                                                      412232.6480N 0982112.9430W N H-VORTAC    Y N N
+OCS VOR/DME ROCK SPRINGS WY US                                                413524.7600N 1090055.1828W N H-VORW/DME  Y Y N
+OCTEN PA US K6                                                                411505.0000N 0783807.0000W F             N N Y
+OCURO CA US K2                                                                331428.8200N 1155729.5800W F             N N Y
+ODOYU TX US K4                                                                345100.0000N 1001800.0000W F             N Y N
+OLLEY NM US K2                                                                322300.0000N 1040200.0000W F             N N Y
+ONL VORTAC O'NEILL NE US                                                      422813.7957N 0984112.9386W N H-VORTACW   Y N N
+ONM VORTAC SOCORRO NM US                                                      342019.9970N 1064913.6500W N H-VORTAC    N Y N
+OPTEC NV US K2                                                                410743.9900N 1165603.0200W F             N N Y
+OVASE OK US K4                                                                343413.0000N 0983216.0000W F             N N Y
+OVR VORTAC MINEOLA IA US                                                      411001.8005N 0954412.6716W N H-VORTAC    Y N N
+OYEDA NM US K2                                                                330700.0000N 1042400.0000W F             N N Y
+OYSTY LA US K4                                                                302815.2100N 0901149.1400W F             Y N N
+PAE VOR/DME EVERETT WA US                                                     475511.4015N 1221640.0844W N L-VORW/DME  N Y N
+PASKE CA US K2                                                                360803.0000N 1190029.0000W F             N N Y
+PASST OR US K1                                                                432140.0000N 1203849.0000W F             N N Y
+PATIO UT US K2                                                                411600.0000N 1123200.0000W F             N N Y
+PATLE TX US K4                                                                323533.0000N 0990029.0000W F             Y N N
+PAWLI OR US K1                                                                431048.0000N 1205550.0000W F             N Y N
+PAYTN AL US K7                                                                312804.3500N 0875307.9100W F             N Y N
+PDT VORTAC PENDLETON OR US                                                    454154.3102N 1185619.3331W N H-VORTACW   Y N N
+PGS VORTAC PEACH SPRINGS AZ US                                                353728.9630N 1133240.0800W N H-VORTACW   N Y N
+PIA VORTAC PEORIA IL US                                                       404048.2629N 0894733.9068W N L-VORTACW   N Y N
+PICHO UT US K2                                                                395800.0000N 1123500.0000W F             N N Y
+PIH VOR/DME POCATELLO ID US                                                   425213.3826N 1123908.0472W N H-VORW/DME  N Y N
+PIUTE NV US K2                                                                363040.9500N 1160541.3200W F             N N Y
+PKE VORTAC PARKER CA US                                                       340607.1020N 1144055.4390W N H-VORTAC    Y N N
+PLESS IL US K5                                                                374834.4800N 0885747.4800W F             N Y N
+PLL VOR/DME POLO IL US                                                        415756.3100N 0893127.1930W N L-VOR/DME   Y N N
+PMM VOR/DME PULLMAN MI US                                                     422757.7326N 0860617.3156W N H-VOR/DME   Y N N
+PNH VORTAC AMARILLO TX US                                                     351406.2259N 1014156.5184W N H-VORTACW   N Y N
+PNSIC PA US K6                                                                405839.0000N 0800822.0000W F             N Y N
+PROWL MO US K3                                                                370200.0000N 0911500.0000W F             N Y N
+PSP VORTAC PALM SPRINGS CA US                                                 335212.0544N 1162547.2162W N L-VORTAC    N Y N
+PUB VORTAC PUEBLO CO US                                                       381739.3166N 1042546.0056W N H-VORTACW   Y N N
+PURSE NV US K2                                                                353454.0000N 1151153.0000W F             Y Y N
+PWE VORTAC PAWNEE CITY NE US                                                  401201.2700N 0961222.6120W N H-VORTAC    N Y N
+PWEEE MS US K7                                                                322917.2400N 0893409.3000W F             Y Y N
+PXV VORTAC EVANSVILLE IN US                                                   375541.9537N 0874544.5636W N H-VORTACW   Y Y N
+QTIPP NY US K6                                                                413848.5100N 0745453.1500W F             Y Y N
+RAKES TX US K4                                                                303220.5000N 1012904.3000W F             N N Y
+RAP VORTAC RAPID CITY SD US                                                   435833.7046N 1030044.4309W N H-VORTAC    Y N N
+RAVEE NM US K2                                                                333100.0000N 1042200.0000W F             N N Y
+RBS VOR/DME ROBERTS IL US                                                     403454.1250N 0880951.3640W N L-VOR/DME   N Y N
+REANA NV US K2                                                                382400.0000N 1142000.0000W F             N Y Y
+REDFN OG US K                                                                 285258.6900N 0884206.4100W F             Y Y N
+REECO MS US K7                                                                322230.0000N 0893710.0000W F             Y Y N
+REYOG OK US K4                                                                343541.0000N 0981320.0000W F             N N Y
+RGOES FL US K7                                                                301933.9500N 0865150.5500W F             Y Y N
+RIELY OR US K1                                                                433800.0000N 1191700.0000W F             N N Y
+RLG VOR/DME KREMMLING CO US                                                   400009.5100N 1062632.9550W N H-VORW/DME  Y N N
+RONGE CT US K6                                                                415452.7700N 0731221.2900W F             Y Y N
+ROUTY ID US K1                                                                430900.0000N 1170000.0000W F             N N Y
+ROZZL OR US K1                                                                433500.0000N 1183000.0000W F             N N Y
+RST VOR/DME ROCHESTER MN US                                                   434658.4501N 0923549.0560W N L-VORW/DME  N Y N
+RUFUS CA US K2                                                                412600.0000N 1200000.0000W F             N N Y
+RWF VOR/DME REDWOOD FALLS MN US                                               442802.1854N 0950741.6276W N H-VORW/DME  N Y N
+RZC VORTAC FAYETTEVILLE AR US                                                 361447.1260N 0940717.0192W N H-VORTACW   Y N N
+SALMS TN US K7                                                                350003.2500N 0864707.7900W F             Y N N
+SAT VORTAC SAN ANTONIO TX US                                                  293838.5137N 0982740.7320W N H-VORTACW   Y Y N
+SATOC TX US K4                                                                275505.5400N 0991732.4500W F             N N Y
+SCABI TX US K4                                                                333713.2000N 0992701.5300W F             Y N N
+SCC VOR/DME DEADHORSE AK US                                                   701157.1142N 1482458.1744W N H-VORW/DME  Y N N
+SCOFY SD US K3                                                                452736.0100N 1032320.4800W F             N N Y
+SECAN CA US K2                                                                331616.5700N 1153705.6300W F             N N Y
+SGF VORTAC SPRINGFIELD MO US                                                  372121.4144N 0932002.5475W N H-VORTAC    Y Y N
+SHAQQ FL US K7                                                                255746.0000N 0833030.0000W F             N N Y
+SIMPL FL US K7                                                                240000.0000N 0842543.0000W F             N N Y
+SINGG WA US K1                                                                475930.0000N 1190000.0000W F             N N Y
+SJI VORTAC MOBILE AL US                                                       304333.5277N 0882133.4584W N H-VORTACW   Y N N
+SJT VORTAC SAN ANGELO TX US                                                   312229.8250N 1002717.5474W N H-VORTACW   Y N N
+SLN VORTAC SALINA KS US                                                       385530.4971N 0973716.7961W N H-VORTACW   N Y N
+SLOWN NV US K2                                                                403400.0000N 1162400.0000W F             N N Y
+SNS VORTAC SALINAS CA US                                                      363949.8109N 1213611.4650W N H-VORTACW   Y N N
+SOBLE MS US K7                                                                301816.5400N 0884539.6400W F             N N Y
+SPI VORTAC SPRINGFIELD IL US                                                  395023.0394N 0894039.8488W N H-VORTACW   N Y N
+SPRUL TX US K4                                                                310900.0000N 1042300.0000W F             N N Y
+SQS VORTAC SIDON MS US                                                        332749.8577N 0901638.4620W N H-VORTAC    Y Y N
+SSM VOR/DME SAULT STE MARIE MI US                                             462443.5967N 0841853.5378W N H-VOR/DME   N Y N
+SSO VORTAC SAN SIMON AZ US                                                    321609.2820N 1091547.1150W N H-VORTACW   N Y N
+STELL TX US K4                                                                305024.5000N 0953238.9600W F             Y Y N
+STUNN OR US K1                                                                433500.0000N 1170800.0000W F             N N Y
+SUMMA WA US K1                                                                463704.2900N 1215917.9600W F             Y N N
+SUNED WA US K1                                                                461741.5500N 1195736.1500W F             N Y N
+SVM VORTAC SALEM MI US                                                        422431.0931N 0833538.0473W N L-VORTAC    N Y N
+SWB VOR/DME WINNFIELD LA US                                                   315823.5000N 0924037.5200W N H-VORW/DME  Y N N
+SZW VORTAC TALLAHASSEE FL US                                                  303322.4243N 0842226.1954W N H-VORTAC    N Y N
+TABIO OR US K1                                                                423943.3400N 1173430.2000W F             N N Y
+TBD VORTAC THIBODAUX LA US                                                    293951.5600N 0904944.7350W N L-VORTAC    Y Y N
+TCH VORTAC SALT LAKE CITY UT US                                               405100.9010N 1115854.8850W N H-VORTACW   Y N N
+TEMPL WA US K1                                                                474347.6200N 1192903.7900W F             N Y N
+THMAS NJ US K6                                                                394007.7300N 0743416.2400W F             Y Y N
+THX VORTAC THREE RIVERS TX US                                                 283017.9901N 0980901.6803W N L-VORTAC    Y Y N
+TIFTO KS US K3                                                                393617.1600N 0955331.5800W F             Y N N
+TIIGR MS US K7                                                                323025.0000N 0900008.0000W F             Y Y N
+TILOE NV US K2                                                                353223.0000N 1150301.0000W F             Y Y N
+TIMEE OR US K1                                                                450517.4600N 1214149.4900W F             Y Y N
+TINGS KY US K5                                                                371810.8700N 0881522.3000W F             N Y N
+TIPTN UT US K2                                                                405030.0000N 1135000.0000W F             N N Y
+TNV VORTAC NAVASOTA TX US                                                     301718.6954N 0960329.6635W N H-VORTACW   Y Y N
+TOOTI MS US K7                                                                322654.5000N 0884500.0000W F             Y Y N
+TOUGH MT US K1                                                                461358.3900N 1051252.3000W F             N N Y
+TRADR AL US K7                                                                301807.7100N 0880134.1400W F             N N Y
+TRALR NV US K2                                                                361137.3300N 1141440.5900W F             Y N N
+TRAYS KS US K3                                                                372341.0000N 0970102.0000W F             N N Y
+TREMO NV US K2                                                                384100.0000N 1160600.0000W F             N N Y
+TUL VORTAC TULSA OK US                                                        361146.5126N 0954717.1260W N H-VORTACW   N Y N
+TURKI TX US K4                                                                341803.3300N 1010339.0200W F             N Y N
+TVC VOR/DME TRAVERSE CITY MI US                                               444004.4943N 0853300.0554W N H-VORW/DME  N Y N
+TWF VORTAC TWIN FALLS ID US                                                   422847.4840N 1142922.0340W N L-VORTACW   N Y N
+TWISP WA US K1                                                                481608.8200N 1200217.6900W F             Y N N
+TWITS AR US K4                                                                360832.0000N 0905448.0000W F             N N Y
+TXK VORTAC TEXARKANA AR US                                                    333049.9723N 0940423.6717W N H-VORTACW   Y Y N
+TXO VORTAC TEXICO TX US                                                       342942.4561N 1025022.7878W N H-VORTACW   N Y N
+UCOKA TX US K4                                                                311900.0000N 1000500.0000W F             N N Y
+UGABE TX US K4                                                                314800.0000N 1000600.0000W F             N N Y
+UIN VORTAC QUINCY IL US                                                       395052.3489N 0911644.1281W N H-VORTAC    Y N N
+UNEKE TX US K4                                                                332400.0000N 1015800.0000W F             N N Y
+URIAH UT US K2                                                                373010.2600N 1134209.5400W F             N N Y
+USURE TX US K4                                                                291608.9000N 0935652.8000W F             N N Y
+VANSS NM US K2                                                                340200.0000N 1033400.0000W F             N N Y
+VEERA MS US K7                                                                322831.3400N 0891737.7400W F             Y Y N
+VERRT NM US K2                                                                332500.0000N 1035500.0000W F             N N Y
+VHP VORTAC INDIANAPOLIS IN US                                                 394853.0203N 0862202.8810W N H-VORTACW   Y Y N
+VIEEW NY US K6                                                                422622.0700N 0770133.3000W F             Y Y N
+VIH VOR/DME ROLLA/VICHY MO US                                                 380914.6590N 0914224.3790W N L-VOR/DME   Y N N
+VIO VOR/DME GRAND RAPIDS MI US                                                424712.1830N 0852949.4546W N H-VORW/DME  Y N N
+VIVID SD US K3                                                                435137.6200N 0995915.4300W F             N N Y
+VOLLS TN US K7                                                                354055.8100N 0860502.4200W F             N Y N
+VOSTK KY US K5                                                                382815.8600N 0844303.5800W F             Y Y N
+VUZ VORTAC BIRMINGHAM AL US                                                   334012.4764N 0865359.4138W N H-VORTAC    Y N N
+VYLLA AZ US K2                                                                312000.3500N 1105659.6100W F             N Y N
+WASIX TX US K4                                                                303812.0000N 1045847.0000W F             N Y N
+WAVEE MS US K7                                                                320923.2200N 0890919.9000W F             N N Y
+WEEDS KS US K3                                                                390643.2700N 1020046.7700W F             Y N N
+WEITT KS US K3                                                                374445.0000N 0953404.0000W F             N N Y
+WELUM NV US K2                                                                352256.0000N 1145559.0000W F             Y Y N
+WHETT IN US K5                                                                410936.6400N 0863502.9300W F             N Y Y
+WHYNR MO US K3                                                                375133.0000N 0903521.0000W F             N N Y
+WIBAN TX US K4                                                                322400.0000N 1024600.0000W F             N N Y
+WINDM AR US K4                                                                360811.0000N 0912546.0000W F             N N Y
+WINEN UT US K2                                                                375600.0000N 1133000.0000W F             N Y Y
+WORTO TX US K4                                                                302608.0000N 1031212.0000W F             N N Y
+WREST WI US K5                                                                433100.7000N 0892322.1000W F             Y N N
+XGAME NM US K2                                                                335800.0000N 1051700.0000W F             N N Y
+XPLOR PA US K6                                                                411200.0000N 0774926.0000W F             N N Y
+YANKI NE US K3                                                                413139.0400N 1004405.0000W F             N Y N
+YAWNS TX US K4                                                                284923.5000N 0953357.6000W F             N N Y
+YIBUB LA US K4                                                                291507.4000N 0910731.9000W F             N N Y
+YKM VORTAC YAKIMA WA US                                                       463412.8718N 1202640.6919W N H-VORTACW   N Y N
+YUBUS OG US K                                                                 291222.9000N 0931359.7000W F             N N Y
+YULAR TX US K4                                                                312700.0000N 0975000.0000W F             N N Y
+ZAROS CO US K2                                                                375921.6000N 1022021.6000W F             N N Y
+ZARPO TX US K4                                                                273053.1000N 0993144.1000W F             Y Y N
+ZELOT AZ US K2                                                                355210.0000N 1120220.0000W F             Y Y N
+ZEMMA OK US K4                                                                342301.8100N 0965924.0100W F             Y N N
+ZEPOX TX US K4                                                                255350.9000N 0973007.0000W F             Y Y N
+ZFLEX NM US K2                                                                343700.0000N 1034900.0000W F             N N Y
+ZIPSO TX US K4                                                                312157.0000N 0962821.0000W F             Y N N
+ZOOMY OK US K4                                                                365509.0000N 0955531.0000W F             N N Y
+ZOOSS FL US K7                                                                303206.6400N 0833101.3800W F             N Y N
+ZUN VORTAC ZUNI PUEBLO NM US                                                  345756.7120N 1090916.2340W N H-VORTACW   Y Y N
