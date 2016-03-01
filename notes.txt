@@ -1,19 +1,11 @@
-How to view the log:
+View Branches
+$ git branch
 
-Show the full git log
-$ git log
+Create new branch and view branches and switch to new branch
+$ git branch dict-slice
+$ git branch
+$ git checkout dict-slice
+$ git branch
 
-Show only the summary message
-$ git log --oneline
-
-My favorite alias: 'git lola'
-$ git log --graph --decorate --prety=oneline --abbrev-commit --all --date=local --color
-
-More details can be found by running
-$ git help log
-
-Play around with what you like.
-
-This can be applied to any git command, for example:
-$ git help status
-$ git help commit
+Shortcut to above
+$ git checkout -b dict-slice
