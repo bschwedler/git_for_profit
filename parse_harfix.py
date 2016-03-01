@@ -21,7 +21,7 @@ f = open(filename)
 for line in f:
     point_info = {}
     for k, v in point_fields.items():
-        point_info[k] = line[v]
+        point_info[k] = line[v].strip()
 
 f.close()
 
