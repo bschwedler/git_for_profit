@@ -1,0 +1,15 @@
+Create new git repository git_for_profit
+
+Any commands will be pre-pended with '$ '
+
+The following commands were run to create the git repository.
+$ git init git_for_profit
+$ cd git_for_profit
+
+Set up username and email.
+Use 'git config --global' to set this for all git repositories
+$ git config user.name "Benjamin R. J. Schwedler"
+$ git config user.email Benjamin.Schwedler@noaa.gov
+
+To see these changes
+$ cat .git/config
