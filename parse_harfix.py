@@ -6,18 +6,22 @@ import sys
 filename = 'HARFIX.txt'
 print filename
 
+point_fields = {
+        'id': slice(0, 77),
+        'lon': slice(78, 90),
+        'lat': slice(91, 104),
+        'type': slice(105, 106),
+        'class': slice(107, 118),
+        'pitch': slice(119, 120),
+        'catch': slice(121, 122),
+        'way': slice(123, 124),
+        }
+
 f = open(filename)
 for line in f:
-    point_id = line[0:77]
-    point_lon = line[78:90]
-    point_lat = line[91:104]
-    point_type = line[105:106]
-    point_class = line[107:118]
-    point_pitch = line[119:120]
-    point_catch = line[121:122]
-    point_way = line[123:124]
-    print point_id, point_lon, point_lat, point_type, point_class, \
-            point_pitch, point_catch, point_way
+    point_info = {}
+    for k, v in point_fields.items():
+        point_info[k] = line[v]
 
 f.close()
 
