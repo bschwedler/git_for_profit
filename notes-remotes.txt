@@ -1,0 +1,47 @@
+Remotes are 'git speak' for 'other copies of this git repo'
+
+Since git is a distributed version control system, each working copy of the
+repository is in fact a full copy of that git repository.
+In order to work together, your copy of the repository needs a way to keep
+track of the state of the other copies of the repositories.
+Usually there is an authoritative copy of the repository.
+The authoritative version in this case can be cloned this way:
+
+$ git clone /eee/users/bschwedler/work/git_for_profit
+
+The default name of a remote 
+By running this you will be able to view the remotes.
+
+$ cd git_for_profit
+$ git remote
+$ git remote -v
+
+Again you can get all sorts of information by using help
+$ git help remote
+
+You can also view the 'remote branches', which are pointers to the state of the
+remote repository at the point that you last ran 'clone', 'fetch', or 'pull'.
+$ git branch --all
+
+To get updated changes run 
+$ git fetch origin
+
+This will fetch changes into origin, but not merge them.
+If you want to combine the fetch and merge steps, run 'pull'.
+I typically separate fetch and merge because I want to see the upstream
+changes in the remote repo.
+
+$ git pull origin
+
+Changes must be sent to remotes using 'push'
+$ git push
+or 
+$ git push origin master
+
+This command is context sensitive, with the first argument being the remote
+and the second being the branch you want to push to.
+Be sure that you are on the correct branch to push.
+
+The following command is often your best friend if you are confused
+(and I get confused fairly often)
+$ git help
