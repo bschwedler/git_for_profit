@@ -1,0 +1,16 @@
+Alias can be very useful for quick access to common commands. I use
+them especially for logs. 
+
+For global aliases, edit your ~/.gitconfig file to add entries
+For project-specific entries, add them to .git/config
+
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    logn = log --name-status --color 
+    lol = log --pretty=oneline --abbrev-commit --graph --decorate
+    lola = log --graph --decorate --pretty=oneline --abbrev-commit --all --date=local --color
+    ld = log --pretty=format:"%C(yellow)%h\\ %ad%Cred%d\\ %Creset%s%Cblue\\ [%cn]" --decorate --date=short
+
