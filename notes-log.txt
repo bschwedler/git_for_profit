@@ -1,0 +1,19 @@
+How to view the log:
+
+Show the full git log
+$ git log
+
+Show only the summary message
+$ git log --oneline
+
+My favorite alias: 'git lola'
+$ git log --graph --decorate --prety=oneline --abbrev-commit --all --date=local --color
+
+More details can be found by running
+$ git help log
+
+Play around with what you like.
+
+This can be applied to any git command, for example:
+$ git help status
+$ git help commit
